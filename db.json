@@ -1,0 +1,132 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Frontendutveckling med React",
+      "courseId": 469852,
+      "length": "16 veckor",
+      "startDate": "2023-08-14",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "title": "Mobil apputveckling",
+      "courseId": 748231,
+      "length": "16 veckor",
+      "startDate": "2023-08-14",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "courseId": 621185,
+      "length": "12 veckor",
+      "startDate": "2023-08-14",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 4,
+      "title": "Backendutveckling med Node.JS",
+      "courseId": 776512,
+      "length": "6 veckor",
+      "startDate": "2023-04-03",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 5,
+      "title": "Webbutveckling med Angular",
+      "length": "6 veckor",
+      "courseId": 252231,
+      "startDate": "2023-04-03",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 6,
+      "title": "Webbutveckling med Vue",
+      "courseId": 224457,
+      "length": "6 veckor",
+      "startDate": "2023-04-03",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 7,
+      "title": "Modern CSS",
+      "courseId": 426684,
+      "length": "40 timmar",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 8,
+      "title": "Three.JS",
+      "courseId": 985222,
+      "length": "25 timmar",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 9,
+      "title": "Framer Motion",
+      "courseId": 658323,
+      "length": "20 timmar",
+      "description": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 10,
+      "title": "Next.JS",
+      "courseId": 258746,
+      "length": "40 timmar",
+      "description": "Lorem ipsum dolor sit amet"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "teacherId": 8549,
+      "firstName": "Johan",
+      "lastName": "Johansson",
+      "email": "johan.johansson@wc.edu.com",
+      "telephone": "0735218989",
+      "personalNumber": "741116-0223",
+      "expertise": "HTML, CSS, Vanilla JavaScript"
+    },
+    {
+      "id": 2,
+      "teacherId": 1131,
+      "firstName": "Juan",
+      "lastName": "Gonzales",
+      "email": "juan.gonzales@wc.edu.com",
+      "telephone": "0734477851",
+      "personalNumber": "741116-0223",
+      "expertise": "HTML, CSS, Vanilla JavaScript"
+    },
+    {
+      "id": 3,
+      "teacherId": 7233,
+      "firstName": "Anna",
+      "lastName": "Buhre",
+      "email": "anna.buhre@wc.edu.com",
+      "telephone": "0768965411",
+      "personalNumber": "741116-0223",
+      "expertise": "HTML, CSS, Vanilla JavaScript"
+    },
+    {
+      "id": 4,
+      "teacherId": 1752,
+      "firstName": "Josefine",
+      "lastName": "Karlsson",
+      "email": "josefine.karlsson@wc.edu.com",
+      "telephone": "0735211122",
+      "personalNumber": "741116-0223",
+      "expertise": "HTML, CSS, Vanilla JavaScript"
+    },
+    {
+      "id": 5,
+      "teacherId": 3242,
+      "firstName": "Stephen",
+      "lastName": "Hemsworth",
+      "email": "stephen.hemsworth@wc.edu.com",
+      "telephone": "0735214589",
+      "personalNumber": "741116-0223",
+      "expertise": "HTML, CSS, Vanilla JavaScript"
+    }
+  ]
+}
