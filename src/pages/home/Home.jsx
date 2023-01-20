@@ -4,7 +4,7 @@ import { fonts, flex, colors } from "../../styles/partials"
 //react components 
 import { Link } from 'react-router-dom'
 //resources
-import Background from '../../resources/students-bg.jpg'
+import Background from '../../resources/students-bg.webp'
 
 const Container = styled.main`
     ${flex('column', 'center', 'center')}
